@@ -1,2 +1,9 @@
+---
+title: "Using Asciidoc for Web Development"
+date: 2023-04-25T15:06:07-04:00
+draft: false
+categories: ["Lorem"]
+---
+
 = Test with adoc
 Just to see if it works!
